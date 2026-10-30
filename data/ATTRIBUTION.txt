@@ -1,0 +1,15 @@
+Dataset attribution
+===================
+
+Elshanhaby, W., Noueldin, A., Atallah, H. K. E., Rakha, S. A., & Elshemi,
+A. A. (2026). Data for: AI Influencer Identity Disclosure, Perceived
+Authenticity, Parasocial Interaction, Brand Trust and Purchase Intention –
+A Survey Experiment in Saudi Arabia (Version 1). Mendeley Data.
+https://doi.org/10.17632/ks69yfk5by.1
+
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+The project includes copies of the dataset CSV, its codebook and its README.
+Derived means, tests, correlations and charts are calculated by this project.
+The project is not endorsed by the dataset authors or Mendeley Data.

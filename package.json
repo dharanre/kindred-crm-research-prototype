@@ -1,0 +1,13 @@
+{
+  "name": "kindred-ai-ad-disclosure-crm",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "analyze": "node --input-type=module -e \"import {analyzeDataset} from './research.mjs'; console.log(JSON.stringify(await analyzeDataset(), null, 2))\""
+  }
+}

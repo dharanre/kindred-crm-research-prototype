@@ -1,0 +1,77 @@
+{
+  "baselineResponses": 0,
+  "responseCount": 0,
+  "study": {
+    "target": 150,
+    "status": "live",
+    "responses": []
+  },
+  "campaigns": [
+    {
+      "id": "cmp-summer",
+      "name": "Summer, made together",
+      "emoji": "☀",
+      "format": "Human-created",
+      "appeal": "Emotional",
+      "responses": 248,
+      "trust": 4.2,
+      "auth": 4.4,
+      "status": "Live"
+    },
+    {
+      "id": "cmp-care",
+      "name": "Everyday care, simply",
+      "emoji": "✿",
+      "format": "AI, undisclosed",
+      "appeal": "Rational",
+      "responses": 186,
+      "trust": 3.1,
+      "auth": 3,
+      "status": "Live"
+    },
+    {
+      "id": "cmp-morning",
+      "name": "A better morning ritual",
+      "emoji": "☕",
+      "format": "AI, disclosed",
+      "appeal": "Rational",
+      "responses": 214,
+      "trust": 3.9,
+      "auth": 3.8,
+      "status": "Live"
+    },
+    {
+      "id": "cmp-garden",
+      "name": "Stories from the garden",
+      "emoji": "🌱",
+      "format": "Human-created",
+      "appeal": "Emotional",
+      "responses": 153,
+      "trust": 4.4,
+      "auth": 4.5,
+      "status": "Complete"
+    },
+    {
+      "id": "cmp-ingredients",
+      "name": "What goes into it",
+      "emoji": "✳",
+      "format": "AI, disclosed",
+      "appeal": "Emotional",
+      "responses": 129,
+      "trust": 3.7,
+      "auth": 3.6,
+      "status": "In review"
+    },
+    {
+      "id": "cmp-day",
+      "name": "Made for your day",
+      "emoji": "◉",
+      "format": "AI, undisclosed",
+      "appeal": "Emotional",
+      "responses": 98,
+      "trust": 3.2,
+      "auth": 3.1,
+      "status": "Complete"
+    }
+  ]
+}
